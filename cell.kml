@@ -57,7 +57,6 @@
         <width>4</width>
       </LineStyle>
     </Style>
-
     <Placemark>
       <name>Blue Line</name>
       <styleUrl>#blueLine</styleUrl>
@@ -65,9 +64,19 @@
         <altitudeMode>relative</altitudeMode>
         <coordinates>
 103.54153,13.7490866080296,0
-103.54153,13.74459,0
-103.545539014258,13.7468382716435,0   
-                </coordinates>
+103.54153,13.74459,0  
+       </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+13.7490866080296,103.54153,0
+13.74459,103.54153,0
+       </coordinates>
       </LineString>
     </Placemark>
 
