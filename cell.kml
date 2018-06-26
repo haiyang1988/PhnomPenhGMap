@@ -57,26 +57,56 @@
         <width>4</width>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Blue Line</name>
       <styleUrl>#blueLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
-103.54153,13.7490866080296,0
-103.54153,13.74459,0  
-       </coordinates>
+12.9257758130896,102.503873244324,0
+12.92967,102.50618,0
+12.9296699594918,102.501566416669,0
+        </coordinates>
       </LineString>
     </Placemark>
+
     <Placemark>
-      <name>Blue Line</name>
-      <styleUrl>#blueLine</styleUrl>
+      <name>Red Line</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+12.5528702932654,103.922319949896,0
+12.548442,103.92152,0
+12.5499798958412,103.92584885955,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Green Line</name>
+      <styleUrl>#greenLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
 13.7490866080296,103.54153,0
 13.74459,103.54153,0
-       </coordinates>
+13.7468382716435,103.545539014258,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Orange Line</name>
+      <styleUrl>#orangeLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+12.9257758130896,102.503873244324,0
+12.92967,102.50618,0
+12.9296699594918,102.501566416669,0
+        </coordinates>
       </LineString>
     </Placemark>
 
