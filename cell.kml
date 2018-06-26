@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1">
+<kml xmlns="http://earth.google.com/kml/2.2">
 <!-- Data derived from:
        Ed Knittel - || tastypopsicle.com
        Feel free to use this file for your own purposes.
@@ -64,8 +64,7 @@
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
-103.54153,13.7490866080296,0
-103.545539014258,13.7468382716435,0
+103.54153,13.7490866080296,0 103.545539014258,13.7468382716435,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -76,8 +75,7 @@
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
-103.922319949896,12.5528702932654,0
-103.92584885955,12.5499798958412,0
+103.922319949896,12.5528702932654,0 103.92584885955,12.5499798958412,0
         </coordinates>
       </LineString>
     </Placemark>
