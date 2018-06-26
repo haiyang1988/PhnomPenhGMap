@@ -1,19 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
-<!-- Data derived from:
-       Ed Knittel - || tastypopsicle.com
-       Feel free to use this file for your own purposes.
-       Just leave the comments and credits when doing so.
--->
-  <Document>
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.0"> 
+<Document>
+
   <Placemark> 
- <LineString>
-  <coordinates>
+    <LineString>
+      <coordinates>
    135.2, 35.4, 0. 
    135.4, 35.6, 0.
    135.2, 35.6, 0.
-  </coordinates>
- </LineString>
-</Placemark>
-  </Document>
-</kml>
+      </coordinates>
+    </LineString>
+ 
+   <Style> 
+     <LineStyle>  
+       <color>#ff0000ff</color>
+     </LineStyle> 
+    </Style>
+  </Placemark>
+
+</Document> </kml>
